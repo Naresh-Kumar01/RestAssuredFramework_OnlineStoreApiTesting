@@ -1,6 +1,0 @@
-utilities\AllureRestAssuredFilter.class
-utilities\AllureEnvironmentWriter.class
-listeners\AllureTestListener.class
-listeners\TestExecutionListener.class
-utilities\AllureUtils.class
-utilities\AllureReportUtils.class
