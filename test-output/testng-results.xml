@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-02T10:07:14 PDT" name="Online Store API Suite" finished-at="2026-06-02T10:07:23 PDT" duration-ms="9199">
+    <groups>
+    </groups>
+    <test started-at="2026-06-02T10:07:14 PDT" name="Product API Tests" finished-at="2026-06-02T10:07:23 PDT" duration-ms="9199">
+      <class name="testcases.ProductTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.ProductTests@3d40a3b4]" started-at="2026-06-02T10:07:14 PDT" name="setup" finished-at="2026-06-02T10:07:15 PDT" duration-ms="591" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testAddNewProduct()[pri:0, instance:testcases.ProductTests@3d40a3b4]" started-at="2026-06-02T10:07:15 PDT" name="testAddNewProduct" finished-at="2026-06-02T10:07:19 PDT" duration-ms="3947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddNewProduct -->
+        <test-method signature="testDeleteProduct()[pri:0, instance:testcases.ProductTests@3d40a3b4]" started-at="2026-06-02T10:07:19 PDT" name="testDeleteProduct" finished-at="2026-06-02T10:07:20 PDT" duration-ms="513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteProduct -->
+        <test-method signature="testGetAllCategories()[pri:0, instance:testcases.ProductTests@3d40a3b4]" started-at="2026-06-02T10:07:20 PDT" name="testGetAllCategories" finished-at="2026-06-02T10:07:20 PDT" duration-ms="559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAllCategories -->
+        <test-method signature="testGetAllProducts()[pri:0, instance:testcases.ProductTests@3d40a3b4]" started-at="2026-06-02T10:07:20 PDT" name="testGetAllProducts" finished-at="2026-06-02T10:07:21 PDT" duration-ms="547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAllProducts -->
+        <test-method signature="testGetLimitedProducts()[pri:0, instance:testcases.ProductTests@3d40a3b4]" started-at="2026-06-02T10:07:21 PDT" name="testGetLimitedProducts" finished-at="2026-06-02T10:07:21 PDT" duration-ms="550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetLimitedProducts -->
+        <test-method signature="testGetProductsByCategory()[pri:0, instance:testcases.ProductTests@3d40a3b4]" started-at="2026-06-02T10:07:21 PDT" name="testGetProductsByCategory" finished-at="2026-06-02T10:07:22 PDT" duration-ms="471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetProductsByCategory -->
+        <test-method signature="testGetSingleProductById()[pri:0, instance:testcases.ProductTests@3d40a3b4]" started-at="2026-06-02T10:07:22 PDT" name="testGetSingleProductById" finished-at="2026-06-02T10:07:22 PDT" duration-ms="427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetSingleProductById -->
+        <test-method signature="testGetSortedProducts()[pri:0, instance:testcases.ProductTests@3d40a3b4]" started-at="2026-06-02T10:07:22 PDT" name="testGetSortedProducts" finished-at="2026-06-02T10:07:23 PDT" duration-ms="503" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetSortedProducts -->
+        <test-method signature="testGetSortedProductsAsc()[pri:0, instance:testcases.ProductTests@3d40a3b4]" started-at="2026-06-02T10:07:23 PDT" name="testGetSortedProductsAsc" finished-at="2026-06-02T10:07:23 PDT" duration-ms="448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetSortedProductsAsc -->
+        <test-method signature="testUpdateProduct()[pri:0, instance:testcases.ProductTests@3d40a3b4]" started-at="2026-06-02T10:07:23 PDT" name="testUpdateProduct" finished-at="2026-06-02T10:07:23 PDT" duration-ms="454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateProduct -->
+      </class> <!-- testcases.ProductTests -->
+    </test> <!-- Product API Tests -->
+  </suite> <!-- Online Store API Suite -->
+</testng-results>

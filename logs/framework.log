@@ -1,0 +1,134 @@
+2026-06-02 08:38:31.170 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-02 08:38:31.946 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-02 08:38:36.858 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop test container: container with uuid 2715314c-a6d7-4ae5-85dc-b8e03cc0a71a not found
+2026-06-02 08:38:36.858 [main] ERROR io.qameta.allure.AllureLifecycle - Could not write test container: container with uuid 2715314c-a6d7-4ae5-85dc-b8e03cc0a71a not found
+2026-06-02 08:38:36.900 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-02 08:38:36.902 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop test container: container with uuid 77c575c0-d1ef-42d9-a835-9c1617e9bb3f not found
+2026-06-02 08:38:36.902 [main] ERROR io.qameta.allure.AllureLifecycle - Could not write test container: container with uuid 77c575c0-d1ef-42d9-a835-9c1617e9bb3f not found
+2026-06-02 09:12:55.290 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-02 09:12:56.070 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-02 09:13:04.268 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop test container: container with uuid 7ba5dc11-c0b0-4a3a-971c-e6bab0064451 not found
+2026-06-02 09:13:04.269 [main] ERROR io.qameta.allure.AllureLifecycle - Could not write test container: container with uuid 7ba5dc11-c0b0-4a3a-971c-e6bab0064451 not found
+2026-06-02 09:13:04.282 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-02 09:13:04.285 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop test container: container with uuid 5d00934a-67b5-41f0-a40d-54487d9be509 not found
+2026-06-02 09:13:04.285 [main] ERROR io.qameta.allure.AllureLifecycle - Could not write test container: container with uuid 5d00934a-67b5-41f0-a40d-54487d9be509 not found
+2026-06-02 09:24:55.881 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+2026-06-02 09:24:55.891 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2026-06-02 09:24:55.893 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-02 09:24:55.894 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-02 09:24:55.894 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-02 09:24:55.895 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-02 09:24:55.895 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-02 09:24:55.896 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-02 09:24:55.907 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 8 ms.
+2026-06-02 09:24:55.922 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+2026-06-02 09:24:55.923 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-02 09:24:55.923 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-02 09:24:55.924 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-02 09:24:55.924 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-02 09:24:55.925 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-02 09:24:55.925 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-02 09:24:55.928 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-02 09:24:55.929 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-02 09:24:55.930 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-02 09:24:55.932 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-02 09:24:55.936 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-02 09:24:55.936 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-02 09:24:55.936 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-02 09:24:55.936 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-02 09:24:55.939 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2026-06-02 09:24:55.948 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+2026-06-02 09:24:55.951 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-02 09:24:55.951 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-02 09:24:55.952 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2026-06-02 09:24:55.952 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2026-06-02 09:24:55.972 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\AppData\Local\Temp\testng-eclipse--1141679591\testng-customsuite.xml
+
+2026-06-02 09:24:56.022 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+2026-06-02 09:25:04.735 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@20616795: 50 ms
+2026-06-02 09:25:04.748 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1ac32da1: 12 ms
+2026-06-02 09:25:04.759 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@510cefb6: 11 ms
+2026-06-02 09:25:04.767 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@32df1a2a: 8 ms
+2026-06-02 09:25:04.774 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6c927487: 7 ms
+2026-06-02 09:25:04.774 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@79d31e24: 0 ms
+2026-06-02 09:39:26.616 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-02 09:39:27.460 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-02 09:40:03.606 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop test container: container with uuid 12022744-b868-4c46-938c-b7ee06cee648 not found
+2026-06-02 09:40:03.606 [main] ERROR io.qameta.allure.AllureLifecycle - Could not write test container: container with uuid 12022744-b868-4c46-938c-b7ee06cee648 not found
+2026-06-02 09:40:03.629 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-02 09:40:03.631 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop test container: container with uuid dc24894f-46fd-4cff-89ed-d6a8d4a7c6e5 not found
+2026-06-02 09:40:03.631 [main] ERROR io.qameta.allure.AllureLifecycle - Could not write test container: container with uuid dc24894f-46fd-4cff-89ed-d6a8d4a7c6e5 not found
+2026-06-02 09:41:51.144 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-02 09:41:51.947 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-02 09:42:10.432 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop test container: container with uuid 0c5e5b01-236f-4de8-a41b-cee4273fc1df not found
+2026-06-02 09:42:10.432 [main] ERROR io.qameta.allure.AllureLifecycle - Could not write test container: container with uuid 0c5e5b01-236f-4de8-a41b-cee4273fc1df not found
+2026-06-02 09:42:10.454 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-02 09:42:10.457 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop test container: container with uuid 40f59b14-63d1-4309-8949-c38809e82829 not found
+2026-06-02 09:42:10.457 [main] ERROR io.qameta.allure.AllureLifecycle - Could not write test container: container with uuid 40f59b14-63d1-4309-8949-c38809e82829 not found
+2026-06-02 09:43:16.690 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-02 09:43:17.407 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-02 09:43:24.722 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop test container: container with uuid 839c77c2-62e0-4c9e-95d5-386599726095 not found
+2026-06-02 09:43:24.722 [main] ERROR io.qameta.allure.AllureLifecycle - Could not write test container: container with uuid 839c77c2-62e0-4c9e-95d5-386599726095 not found
+2026-06-02 09:43:24.746 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-02 09:43:24.747 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop test container: container with uuid 2890707b-4515-4f45-a316-4ac3ee71db82 not found
+2026-06-02 09:43:24.747 [main] ERROR io.qameta.allure.AllureLifecycle - Could not write test container: container with uuid 2890707b-4515-4f45-a316-4ac3ee71db82 not found
+2026-06-02 09:45:13.772 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-02 09:45:14.521 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-02 09:45:23.001 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop test container: container with uuid 4471cd10-297f-46f1-8845-1311766f1d23 not found
+2026-06-02 09:45:23.001 [main] ERROR io.qameta.allure.AllureLifecycle - Could not write test container: container with uuid 4471cd10-297f-46f1-8845-1311766f1d23 not found
+2026-06-02 09:45:23.018 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-02 09:45:23.019 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop test container: container with uuid 8d411069-fe9a-4c5d-b726-e0f9274d892a not found
+2026-06-02 09:45:23.019 [main] ERROR io.qameta.allure.AllureLifecycle - Could not write test container: container with uuid 8d411069-fe9a-4c5d-b726-e0f9274d892a not found
+2026-06-02 09:45:53.007 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-02 09:45:53.794 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-02 09:46:02.862 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop test container: container with uuid 9b29aa08-9478-4323-b87d-e233ef79cdf0 not found
+2026-06-02 09:46:02.862 [main] ERROR io.qameta.allure.AllureLifecycle - Could not write test container: container with uuid 9b29aa08-9478-4323-b87d-e233ef79cdf0 not found
+2026-06-02 09:46:02.877 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-02 09:46:02.878 [main] ERROR io.qameta.allure.AllureLifecycle - Could not stop test container: container with uuid 6bbf7741-7dbd-4fb3-904d-5b52989ede93 not found
+2026-06-02 09:46:02.878 [main] ERROR io.qameta.allure.AllureLifecycle - Could not write test container: container with uuid 6bbf7741-7dbd-4fb3-904d-5b52989ede93 not found
+2026-06-02 09:46:55.278 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-02 09:46:56.045 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-02 09:47:05.325 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-02 09:47:44.587 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-02 09:47:45.393 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-02 09:47:57.948 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-02 09:49:01.075 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-02 09:49:01.814 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-02 09:49:10.880 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-02 09:49:37.430 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-02 09:49:38.233 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\RestAssuredFramework_OnlineStoreApiTesting\testng.xml
+
+2026-06-02 09:49:38.236 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-02 09:49:47.436 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-02 09:52:41.924 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-02 09:52:42.736 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-02 09:52:51.710 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-02 09:53:26.555 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-02 09:53:27.383 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-02 09:53:36.407 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-02 09:57:58.787 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-02 09:57:59.621 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-02 09:58:07.881 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-02 09:59:21.157 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-02 09:59:22.023 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-02 09:59:31.058 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-02 10:01:27.009 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-02 10:01:27.861 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-02 10:01:36.604 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-02 10:02:27.374 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-02 10:02:28.168 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-02 10:02:37.050 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-02 10:06:49.585 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-02 10:06:50.340 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-02 10:06:59.375 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-02 10:07:13.888 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-02 10:07:14.706 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\RestAssuredFramework_OnlineStoreApiTesting\testng.xml
+
+2026-06-02 10:07:14.709 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-02 10:07:24.025 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-02 10:15:42.337 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-02 10:15:43.363 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-02 10:15:52.137 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite

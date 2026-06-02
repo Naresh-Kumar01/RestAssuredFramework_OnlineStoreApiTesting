@@ -1,0 +1,33 @@
+<div>PUT to https://fakestoreapi.com/products/1</div>
+
+    <h4>Body</h4>
+    <div>
+    <pre class="preformated-text">
+{
+    &quot;title&quot;: &quot;Ergonomic Wool Computer&quot;,
+    &quot;price&quot;: 89.0,
+    &quot;description&quot;: &quot;Molestiae repellat ad sed nihil dolores porro eligendi.&quot;,
+    &quot;image&quot;: &quot;https://i.pravatar.cc/100&quot;,
+    &quot;category&quot;: &quot;electronics&quot;
+}    </pre>
+    </div>
+
+    <h4>Headers</h4>
+    <div>
+            <div>Accept: */*</div>
+            <div>Content-Type: application/json</div>
+    </div>
+
+
+
+    <h4>Curl</h4>
+    <div>
+        curl -v -X PUT &#39;https://fakestoreapi.com/products/1&#39; -H &#39;Accept: */*&#39; -H &#39;Content-Type: application/json&#39; -d &#39;{
+    &quot;title&quot;: &quot;Ergonomic Wool Computer&quot;,
+    &quot;price&quot;: 89.0,
+    &quot;description&quot;: &quot;Molestiae repellat ad sed nihil dolores porro eligendi.&quot;,
+    &quot;image&quot;: &quot;https://i.pravatar.cc/100&quot;,
+    &quot;category&quot;: &quot;electronics&quot;
+}&#39;
+    </div>
+
