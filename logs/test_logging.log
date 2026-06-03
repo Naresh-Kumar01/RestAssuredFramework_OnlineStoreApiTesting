@@ -11,34 +11,34 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:
 {
-    "title": "Incredible Iron Shoes",
-    "price": 46.82,
-    "description": "Quo sit et sed.",
+    "title": "Gorgeous Bronze Pants",
+    "price": 48.36,
+    "description": "Quia doloremque repellat sequi quis nesciunt sit quis.",
     "image": "https://i.pravatar.cc/100",
-    "category": "clothing"
+    "category": "beauty"
 }
 HTTP/1.1 201 Created
-Date: Tue, 02 Jun 2026 17:15:44 GMT
+Date: Wed, 03 Jun 2026 13:47:19 GMT
 Content-Type: application/json; charset=utf-8
-Content-Length: 145
+Content-Length: 182
 Connection: keep-alive
 access-control-allow-origin: *
-etag: W/"91-tx0RtEBESUzuBnGqX6J+mJDBRWc"
+etag: W/"b6-fJUB9X+j1T4SAHbn4vh7+MDqbYo"
 x-powered-by: Express
 cf-cache-status: DYNAMIC
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=nhK5ZcrGNr1%2FWGf9DpQXFSf4bHox6N9NOaZTd%2BbiQ4NvQLOvN8bOPhGieYT%2FXqqT2CzYQEDqKS4hEHUtulqGK6Kme4VdDMXqp9vmEDs5442GuD9K%2Fl0c8UU4u8YMyqGNXxxg"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MINkvEcIjN4U3C7MiignNgSpNV3Ak6u6AeJi3miR10gRv%2BmqTu3yNNiK6n2sxjNQMRs21WecFqKWoeKGUimqtfdKni6kfez8imaEH6Kv80RLzotiWyh0Jiu0Kk9ZF8tyZlDO"}]}
 Server: cloudflare
-CF-RAY: a0581a0f1f53a437-DEL
+CF-RAY: a05f261e4e5a0769-DEL
 alt-svc: h3=":443"; ma=86400
 
 {
     "id": 21,
-    "title": "Incredible Iron Shoes",
-    "price": 46.82,
-    "description": "Quo sit et sed.",
+    "title": "Gorgeous Bronze Pants",
+    "price": 48.36,
+    "description": "Quia doloremque repellat sequi quis nesciunt sit quis.",
     "image": "https://i.pravatar.cc/100",
-    "category": "clothing"
+    "category": "beauty"
 }
 Request method:	DELETE
 Request URI:	https://fakestoreapi.com/products/1
@@ -52,7 +52,7 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-Date: Tue, 02 Jun 2026 17:15:45 GMT
+Date: Wed, 03 Jun 2026 13:47:20 GMT
 Content-Type: application/json; charset=utf-8
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -61,10 +61,10 @@ etag: W/"16d-ryVvNeDR+OwaJd+i2vi/OPo/G4Y"
 x-powered-by: Express
 cf-cache-status: DYNAMIC
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Lq90A4U1CjOv%2BaLwxbN6dbNJegXSXSm4gTf6eyuP78v%2BiCXwJ5sGuM0ZWQKAZ5vzynPjx4CyN7VVB7XKxraM4ZDfs38pgrwMbhiOHO3Nz%2B5wjQ52v8FyAY57K9Z7jqTXpWM6"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=8elNzeDwzSo1bk55ZStv%2FOG1K9BfO%2BAHlfbVXS5hvm5PqPhV8CQCGu64Jur2twEBiN8fQG73tstAcp%2BmDscZaJWMPaZGn9PKzVGzjmQjAMp6JHeeWGlf0yFac0JM1f%2BSBjvl"}]}
 Content-Encoding: gzip
 Server: cloudflare
-CF-RAY: a0581a195b051b55-DEL
+CF-RAY: a05f262decbb4bda-DEL
 alt-svc: h3=":443"; ma=86400
 
 {
@@ -91,7 +91,7 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-Date: Tue, 02 Jun 2026 17:15:46 GMT
+Date: Wed, 03 Jun 2026 13:47:21 GMT
 Content-Type: application/json; charset=utf-8
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -100,10 +100,10 @@ etag: W/"3e-cdq81BKoKIRIQmboBVN84Vj+vkM"
 x-powered-by: Express
 cf-cache-status: DYNAMIC
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=kU84YaD2OmEzA%2F%2BIliYdD084JHEGyyxY4ADm12i8tky3Nfz3JsNbyxp6uaLhzWII14gS7r%2BU7%2FfGCwyajJDwSX46xLV2TIQytS5ed31KPJO6ME4L%2BiUb%2B%2BJmsydMTLdr5r%2Fp"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=61Z3sFvwE2e6sFL5cB7xAcuh4DUq7%2BM8%2FpCW%2ByW0lG3fFOSc8D2Enld%2BeBZwZkw70M%2Bdi9EXUmDwRONML57xK7wYOR2D3DGGEIknDiN5dkVQ6O61M5EitN9Ni%2BoapzsjQlIA"}]}
 Content-Encoding: gzip
 Server: cloudflare
-CF-RAY: a0581a1c0888dddd-DEL
+CF-RAY: a05f26308d9e979f-DEL
 alt-svc: h3=":443"; ma=86400
 
 [
@@ -124,7 +124,7 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-Date: Tue, 02 Jun 2026 17:15:46 GMT
+Date: Wed, 03 Jun 2026 13:47:21 GMT
 Content-Type: application/json; charset=utf-8
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -133,10 +133,10 @@ etag: W/"2990-lZ2o94A2EDKiYW3/6/3oI74HHkw"
 x-powered-by: Express
 cf-cache-status: DYNAMIC
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=FAC4F8NRZJrR%2BLCvqrys%2BgMpcGIeGfTwXZfcfXuAu8Wr%2FOAdGgovz%2F%2Fg44Xq0BMZ3kDGIS7f1%2FiBOOFM0FbhybvuPcu6tLweNCLaHdM7OjhLdi2FPP3oVe5xnfNquIzXFTlo"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=qvc%2BjPMzY65s0tj5ouMGfTMZb5uqgLC8C4HwAq6GD6l2laEVXCZnr%2BewHCsgwlh0DiYL%2F2oWeBtkdXHzwsP8aOlFCu8NuBNk1PgRef3NqwroJnY2AUD9yQNmai0HZEW9AF%2FU"}]}
 Content-Encoding: gzip
 Server: cloudflare
-CF-RAY: a0581a1e9af8e2c9-DEL
+CF-RAY: a05f2633480dc1c5-DEL
 alt-svc: h3=":443"; ma=86400
 
 [
@@ -393,7 +393,7 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-Date: Tue, 02 Jun 2026 17:15:47 GMT
+Date: Wed, 03 Jun 2026 13:47:22 GMT
 Content-Type: application/json; charset=utf-8
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -402,10 +402,10 @@ etag: W/"5a3-TacHAX8z7hmadnrsVzR1YD79uLE"
 x-powered-by: Express
 cf-cache-status: DYNAMIC
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=yD85DKzHwnokitd2p9R7PTI2D3zg%2FGDmXCie5vC0YY2wDLfKGIajA9Cci5X4QrOhCkUCV%2FnVp0vBAbQ4yE8yRHPDjowSwSytH9WlxAGAMiQ%2Fi%2FCotFtEfJP6rkwNXp2UfiTP"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=s5fsb212xtkma3335nGOZDSdhUIG1FYrTdgZbo%2F7YCYozzObDipVOGOvggW4rIVIwatWmTyT9wEvndenMrb7VoBU8Ao7KAb2d%2BcTjkVhLrvVI1B0eZhg4ovWWBYjLiA3JYNH"}]}
 Content-Encoding: gzip
 Server: cloudflare
-CF-RAY: a0581a21cf92b6f1-DEL
+CF-RAY: a05f26367dc67ec6-DEL
 alt-svc: h3=":443"; ma=86400
 
 [
@@ -458,7 +458,7 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-Date: Tue, 02 Jun 2026 17:15:47 GMT
+Date: Wed, 03 Jun 2026 13:47:22 GMT
 Content-Type: application/json; charset=utf-8
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -467,10 +467,10 @@ etag: W/"e31-KVIfMkyn5KcUJ5rA0CyUer/xyks"
 x-powered-by: Express
 cf-cache-status: DYNAMIC
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=10TGtxgzncrz17oY5Ie2bs46wM8EjuMAdxarZ0Y4%2FicmMKV%2BnA9EMfq9hC5qwBQl5pSs9WAfrcnyK9vwt089Tq6R0o6ulNzVpf2AFbal%2Fg2hrZS2JRQ2U%2FwbDdUDmbr%2BuUzz"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Q%2FpsHTJ3SYEGvEwVsaOy%2FwNci3bJN4fxCJPRS5eizm%2FsFGfc5Ko7giecoM5L6bbtME2WQ5tHArfsb0Ja4yITBjdJoh1h%2FA%2FZefV1VxRFfT1ktE0YUhfrGQhbToBEB2nwPxTR"}]}
 Content-Encoding: gzip
 Server: cloudflare
-CF-RAY: a0581a24ad73f507-DEL
+CF-RAY: a05f26391db9f043-DEL
 alt-svc: h3=":443"; ma=86400
 
 [
@@ -559,7 +559,7 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-Date: Tue, 02 Jun 2026 17:15:48 GMT
+Date: Wed, 03 Jun 2026 13:47:23 GMT
 Content-Type: application/json; charset=utf-8
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -568,10 +568,10 @@ etag: W/"16d-ryVvNeDR+OwaJd+i2vi/OPo/G4Y"
 x-powered-by: Express
 cf-cache-status: DYNAMIC
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=AwiQ0CNd2h4G1iOTxYa5pavqROKBsF7soE9SdJTpltNR2VbDEoAFysBD1L%2Fysk9iKL6bYeDgKWqTCFyGdCUtVV1eNmS0fAscS8axkVVi9vjNyXbx3KVj9pnKWpHEEZuCCRmE"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=KHiVN906qUvEqGbq3yB%2BYgTHVwYXQoUMDqz1LiHkZSSoWOI%2BNJ6xIWcAdMCfB3hZ8tJYI%2FUJpa7kZj9r%2F5DXQSuLa0WdY3Jaz8PNIgIXCYA%2BtL%2FgPVbyMf0sqh3aRemFNlQX"}]}
 Content-Encoding: gzip
 Server: cloudflare
-CF-RAY: a0581a278d1ce2c9-DEL
+CF-RAY: a05f263c182d51de-DEL
 alt-svc: h3=":443"; ma=86400
 
 {
@@ -598,7 +598,7 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-Date: Tue, 02 Jun 2026 17:15:48 GMT
+Date: Wed, 03 Jun 2026 13:47:23 GMT
 Content-Type: application/json; charset=utf-8
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -607,10 +607,10 @@ etag: W/"2990-F3S6/O6Hfx9nFzXkD0ArvqE4LyA"
 x-powered-by: Express
 cf-cache-status: DYNAMIC
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=BmqerMsKrzbaJWiBT3jtS%2FRLtlK9%2BlxTW9torc%2BogepmgLocMKO6Xdh3LuB4kL80xNLW0DBeaK9UAGsXxrjNqSKjR6HlMbLoLhELHQox35%2BAZPIchFf%2FfIfF79ZaESA7kOIF"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=Kw9vCIHIwpN%2B%2FKa6P%2B0BB2iVBHwpSSA2vR2ADVDNoeHxVeZ5O4hhUcnV6YwJObxikRtQcFY8J1j90skqoMwXMYg6EQbsHfURzs9e23K6Jv6PwCDexiT3APh%2B3kqhgyaBiT8d"}]}
 Content-Encoding: gzip
 Server: cloudflare
-CF-RAY: a0581a29d9ca5109-DEL
+CF-RAY: a05f263eaa139648-DEL
 alt-svc: h3=":443"; ma=86400
 
 [
@@ -867,7 +867,7 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-Date: Tue, 02 Jun 2026 17:15:48 GMT
+Date: Wed, 03 Jun 2026 13:47:24 GMT
 Content-Type: application/json; charset=utf-8
 Transfer-Encoding: chunked
 Connection: keep-alive
@@ -876,10 +876,10 @@ etag: W/"2990-lZ2o94A2EDKiYW3/6/3oI74HHkw"
 x-powered-by: Express
 cf-cache-status: DYNAMIC
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=FfEwwVehESGz09GHjWjmGSFxHSBvaFLlT2Po7o4EDa1J%2BeSrVuVjP9ZZJsOr4oJ4h00jZHRXWwPeSwwswNNeC84xGVbvI1DCsWw0NDkg9%2F0191X%2B9qPBC6jEfrJT7gwK%2Bm4y"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=S46a3A%2Bg9qivnS6%2FwbRdpqGBw1xg%2BM7AZ50R6w%2BfIUpE0aHraWUm%2BZcG%2BWikaY74xKj5ES%2BvGTc50Cle7RD4CGUStSI8AXPtutAgd%2BXBq5dpFube%2BNAqhHeeToflcChMJ42r"}]}
 Content-Encoding: gzip
 Server: cloudflare
-CF-RAY: a0581a2c5c2597f7-DEL
+CF-RAY: a05f2641cb20f47c-DEL
 alt-svc: h3=":443"; ma=86400
 
 [
@@ -1137,33 +1137,33 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:
 {
-    "title": "Ergonomic Bronze Coat",
-    "price": 61.85,
-    "description": "Veniam cupiditate dicta ipsum impedit necessitatibus sunt.",
+    "title": "Ergonomic Cotton Knife",
+    "price": 63.89,
+    "description": "Tempore ut fugit laboriosam cumque.",
     "image": "https://i.pravatar.cc/100",
-    "category": "books"
+    "category": "beauty"
 }
 HTTP/1.1 200 OK
-Date: Tue, 02 Jun 2026 17:15:49 GMT
+Date: Wed, 03 Jun 2026 13:47:24 GMT
 Content-Type: application/json; charset=utf-8
 Transfer-Encoding: chunked
 Connection: keep-alive
 access-control-allow-origin: *
-etag: W/"b8-F+yomxY31geMuOKPgtGQ8d/cbVY"
+etag: W/"a3-xsLpTKf0xqxX5kgryix43KEc6fs"
 x-powered-by: Express
 cf-cache-status: DYNAMIC
 Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
-Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=yrsGrgsr9Ykety5nwF2YqtwJRztBtzC9Pi4GEoBPzsikfccD2mzi10W5VpoJFJAMiTLPfa%2B%2Fm1Ulo6yyxGlLvS%2F24RLKEqMV36oJyt8gIjkFIWsEwP%2FFlhJKq7LN9Pi3mqXL"}]}
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=6m6qU057NlbtgQ2lm3OwHeAZJiq%2FlPArnlwhT39ET0Zwap9EqRNu%2FKfvawcm4bx06H%2F2s7xyv4tmHP%2BlrosK%2FSZ1WtSnIQDAR7%2BJbL%2BohgLrTIqTFnv169Xr6NutCffw0xzl"}]}
 Content-Encoding: gzip
 Server: cloudflare
-CF-RAY: a0581a2ef8efedd1-DEL
+CF-RAY: a05f2644fa5191ec-DEL
 alt-svc: h3=":443"; ma=86400
 
 {
     "id": 1,
-    "title": "Ergonomic Bronze Coat",
-    "price": 61.85,
-    "description": "Veniam cupiditate dicta ipsum impedit necessitatibus sunt.",
+    "title": "Ergonomic Cotton Knife",
+    "price": 63.89,
+    "description": "Tempore ut fugit laboriosam cumque.",
     "image": "https://i.pravatar.cc/100",
-    "category": "books"
+    "category": "beauty"
 }
