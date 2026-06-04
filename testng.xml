@@ -1,18 +1,14 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Online Store API Suite" verbose="1" parallel="false">
     <listeners>
-        <!-- ✅ Official Allure listener -->
-        <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
-        
-        <!-- Keep your other listeners -->
+        <listener class-name="listeners.AllureTestListener"/>
         <listener class-name="listeners.TestExecutionListener"/>
-        <listener class-name="utils.ExtentReporter"/>
     </listeners>
 
     <test name="Product API Tests">
         <classes>
             <class name="testcases.ProductTests"/>
+            <class name="testcases.ProductDataDrivenTest"/>
         </classes>
     </test>
 </suite>
-
