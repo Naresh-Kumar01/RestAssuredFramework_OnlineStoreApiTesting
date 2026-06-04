@@ -1,16 +1,18 @@
-
-# 1. Base image standard Maven aur OpenJDK 17 ke sath
 FROM maven:3.9.6-eclipse-temurin-17-alpine
-
-# 2. Container ke andar working directory set karein
 WORKDIR /app
 
-# 3. Pehle pom.xml aur src folder ko copy karein
+# 1. Pehle pom.xml aur testng.xml copy karein
 COPY pom.xml .
+COPY testng.xml .
+
+# Agar aapke project root par config.properties ya extent-config.xml jaisi files hain, 
+# toh aap 'COPY config.properties .' bhi add kar sakte hain.
+
+# 2. Source files copy karein
 COPY src ./src
 
-# 4. Saari dependencies download karne ke liye command
+# 3. Dependencies offline download karein
 RUN mvn dependency:go-offline -B
 
-# 5. Container run hote hi test cases execute karne ke liye command
+# 4. Tests execute karein
 CMD ["mvn", "test"]
