@@ -3,7 +3,7 @@ WORKDIR /app
 
 # 1. Pehle pom.xml aur testng.xml copy karein
 COPY pom.xml .
-COPY testng.xml .
+COPY testng-full.xml .
 
 # Agar aapke project root par config.properties ya extent-config.xml jaisi files hain, 
 # toh aap 'COPY config.properties .' bhi add kar sakte hain.

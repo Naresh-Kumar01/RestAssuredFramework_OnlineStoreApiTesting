@@ -11,9 +11,10 @@ import io.restassured.RestAssured;
 import io.restassured.filter.log.RequestLoggingFilter;
 import io.restassured.filter.log.ResponseLoggingFilter;
 import routes.Routes;
-import utilities.AllureRestAssuredFilter;
 import utils.ConfigReader;
 
+import java.time.format.DateTimeFormatter;
+import java.time.LocalDate;
 
 public class BaseClass {
 
@@ -39,10 +40,7 @@ public class BaseClass {
 	    requestLoggingFilter = new RequestLoggingFilter(log);
 	    responseLoggingFilter = new ResponseLoggingFilter(log);
 	    
-	    RestAssured.filters(
-	    		AllureRestAssuredFilter.create(),
-	    		requestLoggingFilter,
-	    		responseLoggingFilter);
+	    RestAssured.filters(requestLoggingFilter, responseLoggingFilter);
 
 	    
 	    
@@ -51,7 +49,7 @@ public class BaseClass {
 	
 	
 	// Helper method to check if a list is sorted in descending order
-   
+    
 		 boolean isSortedDesceding(List<Integer> list)
 		{
 			for(int i=0;i<list.size()-1;i++)
@@ -76,7 +74,31 @@ public class BaseClass {
 				}
 			}
 			return true;
+		}
+		 
+		//Helper method to check dates fall within the specified range
 
-	}
+		 public static final DateTimeFormatter FORMATTER = DateTimeFormatter.ofPattern("yyyy-MM-dd");
+		    
+		    public boolean validateCartDatesWithinRange(List<String> cartDates, String startDate, String endDate) {
+		       
+		    	LocalDate start = LocalDate.parse(startDate, FORMATTER);
+		    	
+		        LocalDate end = LocalDate.parse(endDate, FORMATTER);
 
+		        for (String dateTime : cartDates) 
+		        	{
+		            LocalDate cartDate = LocalDate.parse(dateTime.substring(0, 10), FORMATTER);
+		            if (cartDate.isBefore(start) || cartDate.isAfter(end)) {
+		                return false; // Immediately return false if any cart date is out of range
+		            }
+		        }
+		        return true; // All dates are within range
+		    }
+		    
+		    
+		 
+		 
+		 
+		 
 }

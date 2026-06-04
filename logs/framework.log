@@ -1,21 +1,83 @@
-2026-06-03 06:29:11.719 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
-2026-06-03 06:29:12.676 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+2026-06-04 09:53:23.787 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-04 09:53:24.987 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-04 09:53:36.357 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-04 09:54:51.551 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-04 09:54:52.448 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-04 09:55:02.693 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-04 10:00:19.164 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-04 10:00:20.161 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-04 10:00:29.997 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-04 10:01:03.063 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-04 10:01:04.127 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Full Suite
+2026-06-04 10:01:16.682 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-06-04 10:01:16.687 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-06-04 10:01:23.162 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Full Suite
+2026-06-04 10:02:32.830 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-04 10:02:33.946 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Full Suite
+2026-06-04 10:02:44.770 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-06-04 10:02:44.778 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-06-04 10:02:50.713 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Full Suite
+2026-06-04 10:03:57.594 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-04 10:03:58.625 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\RestAssuredFramework_OnlineStoreApiTesting\testng-full.xml
+
+2026-06-04 10:03:58.630 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Full Suite
+2026-06-04 10:04:08.231 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-06-04 10:04:08.256 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-06-04 10:04:13.706 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Full Suite
+2026-06-04 10:08:37.646 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-04 10:08:38.522 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-04 10:08:48.729 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-04 10:09:31.111 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-04 10:09:32.171 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\RestAssuredFramework_OnlineStoreApiTesting\testng-full.xml
+
+2026-06-04 10:09:32.178 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Full Suite
+2026-06-04 10:09:42.055 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-06-04 10:09:42.058 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-06-04 10:09:46.984 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Full Suite
+2026-06-04 10:19:34.800 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-04 10:19:35.859 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-04 10:19:46.077 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-04 10:20:17.990 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-04 10:20:19.123 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Full Suite
+2026-06-04 10:20:29.244 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-06-04 10:20:29.282 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-06-04 10:20:34.585 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Full Suite
+2026-06-04 10:22:31.064 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-04 10:22:32.121 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Full Suite
+2026-06-04 10:22:42.375 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-06-04 10:22:42.378 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-06-04 10:22:47.387 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Full Suite
+2026-06-04 10:24:09.589 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-04 10:24:10.460 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Full Suite
+2026-06-04 10:24:19.983 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-06-04 10:24:19.986 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-06-04 10:24:25.003 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Full Suite
+2026-06-04 10:31:06.837 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-04 10:31:07.911 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-04 10:31:18.340 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-04 10:34:41.819 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-04 10:34:42.689 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-04 10:34:52.534 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-04 10:40:00.795 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-04 10:40:01.815 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\Admin\eclipse-workspace\RestAssuredFramework_OnlineStoreApiTesting\testng.xml
 
-2026-06-03 06:29:12.687 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
-2026-06-03 06:29:24.681 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
-2026-06-03 06:41:33.179 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
-2026-06-03 06:41:34.262 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
-2026-06-03 06:41:49.123 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
-2026-06-03 06:44:01.074 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
-2026-06-03 06:44:02.099 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
-2026-06-03 06:44:13.261 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
-2026-06-03 06:47:15.254 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
-2026-06-03 06:47:16.067 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
-2026-06-03 06:47:27.757 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
-2026-06-03 08:20:58.781 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
-2026-06-03 08:20:59.296 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
-2026-06-03 08:20:59.296 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
-2026-06-03 08:20:59.296 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
-2026-06-03 08:20:59.621 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
-2026-06-03 08:21:10.456 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-04 10:40:01.822 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-04 10:40:11.647 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-06-04 10:40:11.650 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-06-04 10:40:11.716 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-04 10:42:04.860 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-04 10:42:05.724 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-04 10:42:15.032 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-06-04 10:42:15.060 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-06-04 10:42:15.157 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-04 10:44:06.709 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-04 10:44:07.696 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Admin\eclipse-workspace\RestAssuredFramework_OnlineStoreApiTesting\testng-full.xml
+
+2026-06-04 10:44:07.704 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Full Suite
+2026-06-04 10:44:17.134 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-06-04 10:44:17.138 [main] ERROR io.qameta.allure.AllureLifecycle - Could not add attachment: no test is running
+2026-06-04 10:44:22.093 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Full Suite

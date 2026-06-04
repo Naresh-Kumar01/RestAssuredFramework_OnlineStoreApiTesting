@@ -1,5 +1,6 @@
 package testcases;
 
+import payloads.Payload;
 import pojo.Product;
 import routes.Routes;
 import utils.ConfigReader;
@@ -7,7 +8,7 @@ import io.qameta.allure.Epic;
 import io.qameta.allure.Feature;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
-import payloads.Payload;
+
 
 import org.testng.ITestContext;
 import org.testng.annotations.Test;
