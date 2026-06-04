@@ -13,4 +13,4 @@ COPY src ./src
 RUN mvn dependency:go-offline -B
 
 # 5. Container run hote hi test cases execute karne ke liye command
-CMD ["mvn", "clean", "test"]
+CMD ["mvn", "test"]

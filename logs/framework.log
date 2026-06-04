@@ -13,3 +13,9 @@
 2026-06-03 06:47:15.254 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
 2026-06-03 06:47:16.067 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
 2026-06-03 06:47:27.757 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
+2026-06-03 08:20:58.781 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+2026-06-03 08:20:59.296 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-06-03 08:20:59.296 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-06-03 08:20:59.296 [main] WARN  org.testng.TestNG - Ignoring duplicate listener : io.qameta.allure.testng.AllureTestNg
+2026-06-03 08:20:59.621 [main] INFO  listeners.TestExecutionListener - Starting test suite: Online Store API Suite
+2026-06-03 08:21:10.456 [main] INFO  listeners.TestExecutionListener - Finished test suite: Online Store API Suite
