@@ -15,4 +15,4 @@ COPY src ./src
 RUN mvn dependency:go-offline -B
 
 # 4. Tests execute karein
-CMD ["mvn", "test"]
+CMD ["mvn", "test","-DsuiteXmlFile=testng-full.xml"]
