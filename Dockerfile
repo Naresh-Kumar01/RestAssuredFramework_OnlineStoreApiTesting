@@ -1,18 +1,17 @@
 FROM maven:3.9.6-eclipse-temurin-17-alpine
 WORKDIR /app
 
-# 1. Pehle pom.xml aur testng.xml copy karein
+# 1. Sabhi important configurations aur XML files copy karein
 COPY pom.xml .
-COPY testng-full.xml .
+COPY testng.xml .
+COPY testng-full.xml . 
+COPY config.properties .
 
-# Agar aapke project root par config.properties ya extent-config.xml jaisi files hain, 
-# toh aap 'COPY config.properties .' bhi add kar sakte hain.
-
-# 2. Source files copy karein
+# 2. Source code copy karein
 COPY src ./src
 
-# 3. Dependencies offline download karein
+# 3. Dependencies ko offline cache karein
 RUN mvn dependency:go-offline -B
 
-# 4. Tests execute karein
-CMD ["mvn", "test","-DsuiteXmlFile=testng-full.xml"]
+# 4. default command ko testng-full.xml chalane ke liye set karein
+CMD ["mvn", "test", "-DsuiteXmlFile=testng-full.xml"]
