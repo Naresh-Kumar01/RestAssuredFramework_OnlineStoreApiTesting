@@ -1,11 +1,13 @@
 package testcases;
 
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.PrintStream;
 import java.util.List;
 
 import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeSuite;
 
 import io.restassured.RestAssured;
 import io.restassured.filter.log.RequestLoggingFilter;
@@ -20,30 +22,24 @@ public class BaseClass {
 
 	ConfigReader configReader;
 	
-	 //For logging
-	RequestLoggingFilter requestLoggingFilter;
-	ResponseLoggingFilter responseLoggingFilter;
-
-	
-	@BeforeClass
-	public void setup() throws FileNotFoundException
+	@BeforeSuite
+	public static void suiteSetup() throws FileNotFoundException
 	{
 		RestAssured.baseURI=Routes.BASE_URL;
-		
-		configReader=new ConfigReader();
-		
-		
-	    // Setup filters for logging
-	    FileOutputStream fos = new FileOutputStream(".\\logs\\test_logging.log");
-	    PrintStream log = new PrintStream(fos, true);
-	    
-	    requestLoggingFilter = new RequestLoggingFilter(log);
-	    responseLoggingFilter = new ResponseLoggingFilter(log);
-	    
-	    RestAssured.filters(requestLoggingFilter, responseLoggingFilter);
 
-	    
-	    
+		new File("logs").mkdirs();
+		FileOutputStream fos = new FileOutputStream(".\\logs\\test_logging.log");
+		PrintStream log = new PrintStream(fos, true);
+
+		RestAssured.filters(
+				new RequestLoggingFilter(log),
+				new ResponseLoggingFilter(log));
+	}
+
+	@BeforeClass
+	public void setup()
+	{
+		configReader=new ConfigReader();
 	}
 	
 	
